@@ -6,7 +6,6 @@
 <body>
     <canvas id="carCanvas"></canvas>
     <div id="verticalButtons">
-	<p>DP</p>
         <button onclick="save()">💾</button>
         <button onclick="discard()">🗑️</button>
     </div>
